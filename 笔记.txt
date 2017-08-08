@@ -3,3 +3,5 @@ https://pypi.python.org/pypi/pymssql/2.1.1#downloads
 源码安装
 cmdcd D:\acn\pymssql-2.1.1D:setup.py install
 (Visual Studio 2010)
+
+http://3ms.huawei.com/km/groups/2029071/blogs/details/2522301
