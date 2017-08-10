@@ -1,0 +1,2 @@
+windows下，进入cmd，使用命令wmic product >installedSoftware.txt搜索可将已安装程序列表保存在文件installedSoftware.txt中，当前目录中。
+在Debian 或 Ubuntu linux下，进入终端，使用命令dpkg--list > installedPackege.txt可以将已安装的包的列表保存在文件installedPackege.txt中 
